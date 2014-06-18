@@ -5,7 +5,8 @@
             highlighter: "ace/mode/php",
             extensions: [
                 "php",
-                "php4"
+                "php4",
+                "phtml"
             ],
             commands: {
                 "Tools:Complete:Builtin": {
